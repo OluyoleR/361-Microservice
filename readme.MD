@@ -8,6 +8,9 @@ of ingredients in a get request and sends back a JSON object of recipes listed i
 Intended Use:
 This microservice is intended to be used by some application where food ingredients are stored to make relevant recipe recommendations.
 
+Communication Contract:
+    I certify that even if other details of the microservice may change that the requests to 
+    this service can always be made using request parameters and that the responses will always be a JSON object of ranked recipes.
 Instructions:
     - Requesting Data
     In order to receive the data from this microservice a get HTTP request must be made to 
