@@ -26,5 +26,7 @@ Instructions:
 
 
 CSV Data : https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
-UML 
+
+
+UML Diagram:
 ![UML Image](UML.jpg)
